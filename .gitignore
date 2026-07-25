@@ -13,10 +13,10 @@ soroban_token_contract.wasm
 
 # Editor/IDE files
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
+temp_auto_push.bat
 
 # Environment files
 .env
@@ -36,3 +36,5 @@ test_snapshots/
 # surface and should not be committed to source control.
 /ISSUES.md
 /SECURITY_FIX_SUMMARY.md
+.gitignore
+branch_structure.json
